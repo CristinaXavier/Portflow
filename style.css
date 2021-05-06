@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body
+{
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 2432px;
+
+}
+
+.body
+{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+.Header
+{
+top: 122px;
+left: 0px;
+ width: 1920px;
+height: 780px;
+}
+.Header
+{
+background: transparent;
+opacity: 1;
+
+}
+ .Header-1
+ {
+    width: 1920px;
+    height: 122px;
+    background-color: #FFFFFF;
+    
+}
+
+.Portflow
+{
+top: 37px;
+left: 140px;
+right: 1600px;
+padding: 36px;
+width: 180px;
+height: 49px;
+}
+
+.Portflow
+{ display: inline;
+color: #000000;
+font-size: 40px;
+font-family: sans-serif;
+text-align: left;
+
+}
+
+.menu ul li
+{
+top: 50px;
+left: 1228px;
+width: 552px;
+right: 140px;
+height: 30px;
+padding: 42px;
+border-bottom: 3px solid #FFFFFF;
+
+}
+
+
+.menu ul li
+{
+color:#707070;
+font-size:  20px;
+font-family: sans-serif;
+background-position: 140px; 
+
+}
+
+.menu ul li
+{
+display:inline;
+ }
+
+.portfolio
+{
+font: normal normal 900 25px/30px Montserrat;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.portfolio
+{
+top: 50px;
+left: 1538px;
+width: 119px;
+height: 30px;
+}
+
+.main
+{
+    top: 122px;
+    left: 0px;
+    width: 1920px;
+    height: 780px;
+}
+ 
+#imagem {
+    top: 122px;
+    left: 0px;
+    width: 1920px;
+    height: 780px;
+    }
+
+.laranja-azul
+{
+    top: 122px;
+    left: 0px;
+    width: 1920px;
+    height: 780px;
+}
+.laranja-azul
+{
+    display: inline-flex;
+    
+}
+#texto {
+    position: absolute;
+ 
+    }
+.conteudo-1
+    {
+color:#FFFFFF;
+font-size:  78px;
+font-family: sans-serif;
+background: transparent url('img/Imagine, Discuta, Desenhe..png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+
+}
+
+.conteudo-1
+{
+top: 423px;
+left: 140px;
+width: 1136px;
+height: 96px;
+}
+
+.conteudo-2
+{
+    top: 579px;
+    left: 140px;
+    width: 294px;
+    height: 43px;
+   }
+  .conteudo-2
+   {
+color:#FFFFFF;
+font-size:  35px;
+font-family: PT Sans;
+background: transparent url('img/Fale conosco .png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.prancheta
+{
+top: 0px;
+left: 0px;
+width: 1920px;
+height: 1280px;
+margin-right: 140px;
+margin-left: 140px;
+padding: 5px;
+
+}
+.prancheta
+{
+    background: transparent url('img/NoPath - Copia (20).png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.coluna-1
+{
+    top: 992px;
+    left: 140px;
+    width: 398px;
+    height: 398px;
+    margin-right: 140px;
+    margin-left: 140px;
+
+}
+.coluna-2
+{
+    top: 992px;
+    left: 140px;
+    width: 398px;
+    height: 398px;
+    margin-right: 140px;
+    margin-left: 140px;
+}
+.coluna-3
+{
+    top: 992px;
+    left: 140px;
+    width: 398px;
+    height: 398px;
+    margin-right: 140px;
+    margin-left: 140px;
+}
+.footer
+{
+    top: 2306px;
+    left: 0px;
+    width: 1920px;
+    height: 126px;
+}
+.footer
+{
+color:#F6F6F6;
+background: #F6F6F6 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.rede-sociais
+
+{
+margin: 0 auto;
+padding: 42px;
+border-bottom: 3px solid black;
+background: transparent url('img/Grupo 10.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
